@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: This is my title.
-description: This is the description of my blog.
+title: Thomas Tang's blog
+description: This is my blog used for course requirements.
 github_username: ThomasTang-UQ
 
 # Email and twitter are optional:
