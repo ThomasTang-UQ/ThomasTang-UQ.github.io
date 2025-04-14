@@ -6,4 +6,4 @@
 
 ## Solutions:
 1. edit the title of default page resolves it.
-2. - ongoing - Seems that the two new posts are skipped during building process.
+2. -- ongoing -- Seems that the two new posts are skipped during building process.
