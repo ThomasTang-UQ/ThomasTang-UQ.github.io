@@ -6,4 +6,4 @@
 
 ## Solutions:
 1. edit the title of default page resolves it.
-2. -- ongoing -- Seems that the two new posts are skipped during building process.
+2. change the date to 04-14 can avoid it, however, how to pass in the local time is unknown.
