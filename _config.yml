@@ -11,14 +11,14 @@ description: This is my blog used for course requirements.
 github_username: ThomasTang-UQ
 
 # Email and twitter are optional:
-email: thomasytang@icloud.com
+email: yuanzhe.tang@student.uq.edu.au
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: 
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
