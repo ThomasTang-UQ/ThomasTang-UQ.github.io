@@ -1,7 +1,7 @@
 ---
 title: "First Impressions of fastai"
 description: "Diving into the world of deep learning with fastai"
-date: 2025-04-10
+date: 2025-04-19
 categories: [fastai, deep-learning]
 ---
 
