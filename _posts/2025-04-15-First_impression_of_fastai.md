@@ -39,7 +39,7 @@ And that’s it! I had a working image classifier.
 
 You can also save training results as images and embed them in your post:
 
-![Sample Training Output](images/training-image.png)
+![Sample Training Output](/images/training-image.png "Compare with cpu output")
 
 ---
 
