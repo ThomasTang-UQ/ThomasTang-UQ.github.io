@@ -9,6 +9,7 @@
 title: Thomas Tang's blog
 description: This is my blog used for course requirements.
 github_username: ThomasTang-UQ
+baseurl: "/fastai-blog"
 
 # Email and twitter are optional:
 email: yuanzhe.tang@student.uq.edu.au
